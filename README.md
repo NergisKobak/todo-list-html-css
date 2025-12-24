@@ -1,6 +1,6 @@
 # To-Do List (HTML & CSS)
 
-## 🇬🇧 English
+## English
 
 This is a simple To-Do List project created to practice basic HTML and CSS concepts.
 
@@ -26,7 +26,7 @@ This is a simple To-Do List project created to practice basic HTML and CSS conce
 
 ---
 
-## 🇹🇷 Türkçe
+## Türkçe
 
 Bu proje, temel HTML ve CSS kavramlarını öğrenmek ve pekiştirmek amacıyla oluşturulmuş basit bir yapılacaklar listesi (To-Do List) uygulamasıdır.
 
