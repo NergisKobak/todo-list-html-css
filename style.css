@@ -1,0 +1,46 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: antiquewhite;
+}
+
+.container {
+width: 300px;
+background-color:rgb(108, 186, 189);
+padding: 20px;
+margin: 50px outo;
+border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+input {
+    flex: 1;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+button {
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: rgb(219, 243, 243);
+    padding: 8px;
+    margin-bottom: 8px;
+    border-radius: 4px;
+}
